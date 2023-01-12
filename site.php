@@ -5,7 +5,7 @@
 </head>
 <body>
 <font size="7">
-3pt チーム　卒業制作ホームページ
+3pt チーム　卒業制作ホームページ2
 </font>
 <hr></hr>
 <font size="7">
