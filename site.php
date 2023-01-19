@@ -30,7 +30,11 @@
 
 <font size="7">
 <p style="text-align: left">
+<<<<<<< HEAD
 <a href="page2.php">・ゲームについて</a>
+=======
+<a href="作品紹介.php">・ゲームについて</a>
+>>>>>>> 作品紹介
 </p>
 </font>
 
