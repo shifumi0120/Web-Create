@@ -40,7 +40,7 @@
 
 <font size="7">
 <p style="text-align: left">
-<a href="page2.php">・メンバー紹介</a>
+<a href="メンバー紹介.php">・メンバー紹介</a>
 </p>
 </font>
 
