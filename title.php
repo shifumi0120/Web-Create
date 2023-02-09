@@ -14,14 +14,21 @@
 }
 
 </style>
-
+<div class="gradient">
 </head>
 <body>
-<div class="gradient">
+
 <font size="7">
-3pt チーム　卒業制作ホームページ
+<?php
+echo '<font color="black">';
+echo '<b>3pt チーム　卒業制作ホームページ</b>';
+echo '</font>';
+?>
 </font>
-<hr></hr>
+
+<?php
+echo '<hr></hr>';
+?>
 
 <p style="text-align: right">
 <input type="button" onclick="location.href='./site.php'" value="メニューへ" class="example">

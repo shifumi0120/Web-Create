@@ -13,41 +13,36 @@
 	border: 1px solid #333;
 }
 </style>
-
+<div class="gradient">
 </head>
 <body>
-<div class="gradient">
-<font size="7">
-3pt チーム　卒業制作ホームページ
-</font>
-<hr></hr>
 
 <font size="7">
-<p style="text-align: left">
-<a href="page2.php">・TOP</a>
-</p>
+<?php
+echo '<font color="black">';
+echo '<b>3pt チーム　卒業制作ホームページ</b>';
+echo '</font>';
+?>
 </font>
+<?php
+echo '<hr></hr>';
+?>
 
 <font size="7">
-<p style="text-align: left">
-<<<<<<< HEAD
-<a href="page2.php">・ゲームについて</a>
-=======
-<a href="作品紹介.php">・ゲームについて</a>
->>>>>>> 作品紹介
-</p>
-</font>
+<?php
+echo "<a href="."title.php".">・TOP</a>";
+echo "<br />";
+echo "<br />";
 
-<font size="7">
-<p style="text-align: left">
-<a href="メンバー紹介.php">・メンバー紹介</a>
-</p>
-</font>
-
-<font size="7">
-<p style="text-align: left">
-<a href="page2.php">・ログイン</a>
-</p>
+echo "<a href="."作品紹介.php".">・ゲームについて</a>";
+echo "<br />";
+echo "<br />";
+echo "<a href="."メンバー紹介.php".">・メンバー紹介</a>";
+echo "<br />";
+echo "<br />";
+echo "<a href="."desktop5.php".">・ログイン</a>";
+echo "<br />";
+?>
 </font>
 
 <p style="text-align: right">
